@@ -1,5 +1,5 @@
 {
-  "name": "node-mailjet",
+  "name": "@objectif-lune/node-mailjet",
   "version": "6.0.5",
   "main": "./dist/mailjet.node.js",
   "browser": "./dist/mailjet.web.js",
@@ -64,7 +64,7 @@
     "docs": "typedoc --tsconfig ./tsconfig.json"
   },
   "dependencies": {
-    "axios": "1.6.2",
+    "axios": "1.7.4",
     "json-bigint": "^1.0.0",
     "url-join": "^4.0.0"
   },
@@ -112,7 +112,7 @@
   "homepage": "https://github.com/mailjet/mailjet-apiv3-nodejs#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mailjet/mailjet-apiv3-nodejs.git"
+    "url": "git+https://github.com/malee1975/mailjet-apiv3-nodejs-axios-cve.git"
   },
   "bugs": {
     "url": "https://github.com/mailjet/mailjet-apiv3-nodejs/issues"
